@@ -2,7 +2,8 @@
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding: 10px;
-    margin-bottom: 20;
+    margin-bottom: 20px;
+    margin-top: 20;
 
     .match-date, .match-venue, .match-result {
         margin-top: 10px;
